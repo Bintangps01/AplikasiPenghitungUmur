@@ -254,7 +254,10 @@ public class PenghitungUmurFrame extends javax.swing.JFrame {
             }
         });
     }
-
+    //Nama : Bintang Putra Setiawan
+    //Kelas : 5B REG PAGI BJM
+    //NPM : 2210010539
+    
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnHitung;
     private javax.swing.JButton btnKeluar;

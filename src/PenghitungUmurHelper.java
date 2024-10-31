@@ -67,7 +67,9 @@ public class PenghitungUmurHelper {
         javax.swing.SwingUtilities.invokeLater(() -> txtAreaPeristiwa.setText("Gagal mendapatkan data peristiwa: " + e.getMessage()));
     }
 }
-
+    //Nama : Bintang Putra Setiawan
+    //Kelas : 5B REG PAGI BJM
+    //NPM : 2210010539
     // Menghitung umur secara detail (tahun, bulan, hari)
     public String hitungUmurDetail(LocalDate lahir, LocalDate sekarang) {
         Period period = Period.between(lahir, sekarang);
