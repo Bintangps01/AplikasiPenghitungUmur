@@ -4,7 +4,7 @@
 Sebuah aplikasi yang dapat digunakan untuk menghitung umur berdasarkan tanggal kelahiran, yang ditujukan untuk penyelesaian Latihan PBO ke-2.
 
 #### Source Code PenghitungUmurFrame.java
-```
+```java
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
@@ -283,7 +283,7 @@ public class PenghitungUmurFrame extends javax.swing.JFrame {
 ```
 
 #### Source Code PenghitungUmurHelper.java
-```
+```java
 import java.time.LocalDate;
 import java.time.Period;
 import java.io.BufferedReader;
@@ -432,6 +432,11 @@ public class PenghitungUmurHelper {
 ## Fitur Tambahan (Variasi)
 - Data Peristiwa Global
 - Terjemahan Bahasa Indonesia
+
+## Screenshot
+![{CBC08299-9596-41F4-A929-8170F4B3EB48}](https://github.com/user-attachments/assets/97009459-51a1-4b5a-a258-b9282a369cc6)
+
+
 ## Referensi
 
  - [Modul PBO2 Latihan 2](https://drive.google.com/file/d/142FTdEMjUOJskq_JrFDqrXUV5Xip4Icd/view)
